@@ -1,0 +1,10 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\obj\Debug\aorcado.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\obj\Debug\aorcado.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\bin\Debug\aorcado.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\bin\Debug\aorcado.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\bin\Debug\aorcado.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\obj\Debug\aorcado.csproj.CopyComplete
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\obj\Debug\aorcado.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\aorcado\aorcado\obj\Debug\aorcado.pdb
